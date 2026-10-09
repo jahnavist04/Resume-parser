@@ -1,0 +1,6 @@
+Jahnavi S T
+Email: jahnavi@example.com
+Phone: +91 9876543210
+
+Skills: Java, Python, SQL, HTML, CSS
+Education: B.E. in Data Science and Engineering
